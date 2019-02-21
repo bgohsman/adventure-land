@@ -1,0 +1,59 @@
+-- Events --                  -- Emits --
+blocker                       attack
+chat_log                      auth
+chest_opened                  bank
+cm                            bet
+correction                    blocker
+death                         cruise
+dice                          destroy
+disappear                     equip
+disappearing_text             gm
+disconnect                    heal
+disconnect_reason             imove
+drop                          interaction
+end                           list_pvp
+entities                      loaded
+eval                          lostandfound
+frequest                      move
+friend                        mreport
+fx                            open_chest
+game_chat                     party
+game_chat_log                 players
+game_error                    property
+game_event                    requested_ack
+game_log                      secondhands
+game_response                 send
+gm                            send_updates
+hit                           skill
+info                          stop
+invite                        tavern
+light                         transport
+lostandfound                  unequip
+new_map                       unlock
+notice
+notthere
+observing
+online
+party_update
+partym
+ping_ack
+player
+players
+pm
+poke
+pvp_list
+reloaded
+reopen
+request
+requesting_ack
+secondhands
+server_message
+simple_eval
+start
+tavern
+test
+track
+trade_history
+ui
+upgrade
+welcome

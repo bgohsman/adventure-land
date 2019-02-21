@@ -1,6 +1,17 @@
 # adventure-land
 A public repository of dubious adventure.land scripts
 
+## Libraries and Dependencies Used By Adventure.land
+- [Codemirror](https://codemirror.net/): Browser-based text editor
+- [HowlerJS](https://howlerjs.com/): Audio library for the web
+- [JQuery](https://jquery.com/): It's...JQuery
+- [JQuery UI](https://jqueryui.com/): Draggable
+- [Bowser](https://github.com/lancedikson/bowser): Browser detection library
+- [js-cookie](https://github.com/js-cookie/js-cookie): JavaScript API for managing cookies
+- [PixiJS](http://www.pixijs.com/): 2D WebGL engine
+- [socket.io](https://socket.io/): Real-time, bi-directional events/communication
+
+
 ## Linting
 Because I am neurotic, I like all of my code to be, if not correct, at least consistently formatted. And no one is more neurotic about code formatting than the folks over at [AirBnB](https://github.com/airbnb/javascript) (seriously). 
 
