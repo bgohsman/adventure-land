@@ -1,0 +1,16 @@
+{
+  "env": {
+    "adventure-land/api": true,
+    "es6": true
+  },
+  "plugins": [
+    "adventure-land"
+  ],
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-unused-expressions": 0,
+    "no-undef": 0,
+    "no-unused-vars": 0,
+    "no-mixed-spaces-and-tabs": 1
+  }
+}

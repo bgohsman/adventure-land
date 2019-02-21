@@ -11,13 +11,15 @@ A public repository of dubious adventure.land scripts
 - [PixiJS](http://www.pixijs.com/): 2D WebGL engine
 - [socket.io](https://socket.io/): Real-time, bi-directional events/communication
 
+## Other Relevant Links
+- [Nexusnull's Unofficial Docs](https://nexusnull.github.io/adventureland/global.html)
+- [Adventure.land runner_functions.js](https://github.com/kaansoral/adventureland/blob/master/runner_functions.js)
 
-## Linting
-Because I am neurotic, I like all of my code to be, if not correct, at least consistently formatted. And no one is more neurotic about code formatting than the folks over at [AirBnB](https://github.com/airbnb/javascript) (seriously). 
 
-Linting is, of course, completely optional. If you want to mix tabs/spaces, camel-case with snake-case, curly braces on the same line but, sometimes, not...Adventure.land will hum along just fine. However, if you are like-minded, here are the steps to setup your environment for ESlint:
+## Linting [Optional]
+David Timmons did us all the favor of creating an ESlint plugin specifically for Adventure.land:
+[eslint-plugin-adventure-land](https://github.com/davidtimmons/eslint-plugin-adventure-land)
 
-Option 1.) Install eslint by running `npm install eslint` in the workspace folder `adventure-land`
-Option 2.) Install globally using `npm install -g eslint`.
+I've configured this project to use his plugin in conjunction with `eslint:recommended`.
 
-If you are using VisualStudio Code, I also recommend installing the `ESLint` extension.
+
